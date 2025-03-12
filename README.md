@@ -76,6 +76,7 @@ Melhorar a interface ou ajustar os estilos (CSS).
 Integrar com outras ferramentas para análise de draft.
 👾 Desenvolvido para facilitar a vida durante os Picks e Bans!
 
-Se tiver dúvidas ou sugestões, fique à vontade para contribuir! 🎮
+Se tiver dúvidas ou sugestões, fique à vontade para contribuir! 🎮 https://pixgg.com/LINGUADEFOGO
 
-![pixgg-qrcode](https://github.com/user-attachments/assets/e99736e7-db97-44ac-bc08-27b4aac1bfff)
+![pixgg-qrcode](https://github.com/user-attachments/assets/cde7e190-9251-49be-b5f8-31ea657319d2)
+
