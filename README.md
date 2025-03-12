@@ -78,5 +78,6 @@ Integrar com outras ferramentas para análise de draft.
 
 Se tiver dúvidas ou sugestões, fique à vontade para contribuir! 🎮 https://pixgg.com/LINGUADEFOGO
 
-![pixgg-qrcode](https://github.com/user-attachments/assets/cde7e190-9251-49be-b5f8-31ea657319d2)
+![pixgg-qrcode](https://github.com/user-attachments/assets/2c05386f-38cc-463a-98aa-12ec79965923)
+
 
