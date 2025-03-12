@@ -1,3 +1,5 @@
+![GITLOL1](https://github.com/user-attachments/assets/a8754361-ae06-434e-8f97-bdd3080dd422)
+
 Aqui está um arquivo LEIAME.md (ou README.md no GitHub) completo e detalhado para os interessados aprenderem a usar o programa. Ele explica todas as funcionalidades, como adicionar nomes, corrigir erros, exportar e importar o banco de dados, e inclui algumas dicas úteis.
 
 # 📊 Cadastro de Nomes da Equipe Inimiga
