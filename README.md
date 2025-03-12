@@ -77,3 +77,5 @@ Integrar com outras ferramentas para análise de draft.
 👾 Desenvolvido para facilitar a vida durante os Picks e Bans!
 
 Se tiver dúvidas ou sugestões, fique à vontade para contribuir! 🎮
+
+![pixgg-qrcode](https://github.com/user-attachments/assets/e99736e7-db97-44ac-bc08-27b4aac1bfff)
